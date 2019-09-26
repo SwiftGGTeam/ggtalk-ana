@@ -12,8 +12,9 @@
 
 *本排名不分先后，为了查找方便，暂时按照字母进行排序。*
 
-- [Aaron 莲叔](Aaron.md)
-- [BigNerdCoding](BigNerdCoding.md)
-- [numbbbbb](numbbbbb.md)
-- [shanks](shanks.md)
+- [Aaron 莲叔](./ana/Aaron.md)
+- [BigNerdCoding bnc](./ana/BigNerdCoding.md)
+- [numbbbbb 帮主](./ana/numbbbbb.md)
+- [shanks 羊叔](./ana/shanks.md)
+- [sunnyYoung 羊神](./ana/SunnyYoung.md)
 
